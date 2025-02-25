@@ -1,0 +1,392 @@
+RETAILER_SITE_CODE,RETAILER_CODE,ADDRESS1,ADDRESS2,CITY,REGION,COUNTRY_CODE,ACTIVE_INDICATOR
+1,89,1117 Franklin Blvd,,Winnipeg,Manitoba,4,1
+2,89,"45, rue Atwater",,Montréal,Québec,4,1
+3,89,328 Hodgson Road,,Fredericton,New Brunswick,4,1
+4,90,"2425, rue Peel",,Montréal,Québec,4,1
+5,90,34 8th Avenue,,Sudbury,Ontario,4,1
+6,90,"45, rue Stanley",,Tremblant,Québec,4,1
+7,90,23 Louis Riel Drive,,Regina,Saskatchewan,4,1
+8,91,56 North Way Street,,Whitehorse,Yukon,4,1
+9,92,601 Bay Street,,Toronto,Ontario,4,1
+10,92,"Suite 1500, 802 Docklands Street",,Vancouver,British Columbia,4,1
+11,92,"Suite 125, 129th Street",,Vancouver,British Columbia,4,1
+12,92,"Suite 5034, 34 Broadway Street",,Vancouver,British Columbia,4,1
+13,92,"18, rue Rousseau",,Montréal,Québec,4,1
+14,93,"500, Place d'Armes",Bureau 1061,Montréal,Québec,4,1
+15,94,82 Creekside Drive,,Victoria,British Columbia,4,1
+16,94,"48, rue Leduc",,Hull,Québec,4,0
+17,95,"203, boul. Guy",,Montréal,Québec,4,1
+18,95,"603, 42 Bloor St.",,Toronto,Ontario,4,1
+19,95,9755 Riverside Drive,,Ottawa,Ontario,4,1
+20,95,2200 Argyle Street,,Halifax,Nova Scotia,4,1
+21,95,56 Bear Road,,Dawson Creek,British Columbia,4,1
+22,96,"Suite 12, 801 Dundas Street",,Toronto,Ontario,4,1
+23,96,"2, boul. Sherbrooke",,Montréal,Québec,4,1
+24,96,897 Esplanade Street,,Toronto,Ontario,4,1
+25,96,"Suite 1331, 123 Main St.",,Ottawa,Ontario,4,1
+26,96,362 Duckworth Street,,St. John's,Newfoundland,4,1
+27,97,"87, 2399 Somerset Avenue",,Toronto,Ontario,4,1
+28,97,"1501, 306 6th Avenue",,Winnipeg,Manitoba,4,1
+29,97,"Suite 1000, 56 King Street",,Toronto,Ontario,4,1
+30,97,"90, 56 Cumberland Street",,Toronto,Ontario,4,1
+31,98,292 Queen Street,,Charlottetown,Prince Edward Island,4,0
+32,44,Röntgenstraße 90,3. Tür rechts,Frankfurt,Hessen,2,1
+33,47,Mathildenstraße 67,,Berlin,Berlin,2,1
+34,47,Porschestraße 54,,Bonn,Nordrhein-Westfalen,2,1
+35,47,Nordseedamm 3,,Hamburg,Hamburg,2,1
+36,48,Kulmseestraße 25,,Berlin,Berlin,2,1
+37,48,Kaiserstraße 37,,Dresden,Sachsen,2,0
+38,48,Karolingerplatz 14,,Düsseldorf,Nordrhein-Westfalen,2,1
+39,48,Linke Uferstraße 73,,Frankfurt,Hessen,2,1
+40,48,Moorstraße 7,,Hamburg,Hamburg,2,1
+41,48,Otto-Karl-Straße 89,,Mannheim,Baden-Württemberg,2,1
+42,49,Jubelstraße 23,,Berlin,Berlin,2,1
+43,49,Adenauerufer 105,,Mainz,Rheinland-Pfalz,2,1
+44,49,Goetheplatz 1,,Frankfurt,Hessen,2,1
+45,49,Heideweg 18,,Frankfurt,Hessen,2,1
+46,49,Grotestraße 40,,Hannover,Niedersachsen,2,1
+47,50,Nestorstraße 83,,Berlin,Berlin,2,1
+48,50,Leibnitzstraße 53,,Kiel,Schleswig-Holstein,2,1
+49,50,Am Hang 30,,Schwerin,Mecklenburg-Vorpommern,2,1
+50,50,Lyoner Straße 14,,Frankfurt,Hessen,2,1
+51,50,Ahornstraße 82,,Potsdam,Brandenburg,2,1
+52,51,Pastoratsgasse 7,,Bonn,Nordrhein-Westfalen,2,1
+53,51,Neßdeichweg 12,,Bremen,Bremen,2,1
+54,51,Rostocker Straße 102,,Frankfurt,Hessen,2,1
+55,51,Müggenburger Straße 10,,Hamburg,Hamburg,2,1
+56,54,Am Mainkai 17,,Frankfurt,Hessen,2,1
+57,54,Aachener Straße 6,,Saarbrücken,Saarland,2,1
+58,54,Urachstraße 11,,Freiburg,Baden-Württemberg,2,1
+59,54,Albert-Einstein-Straße 74,,Erfurt,Thüringen,2,1
+60,57,Grubesallee 141,4. Stock,Hamburg,Hamburg,2,0
+61,58,Händelstraße 81,,Bremen,Bremen,2,1
+62,58,Hubertusgasse 19,,München,Bayern,2,1
+63,47,Platanenstraße 41,,Magdeburg,Sachsen-Anhalt,2,1
+67,99,2479 Broad Street,P.O. Box 827,Hartford,Connecticut,3,1
+68,99,6743 Justica Street,,Atlanta,Georgia,3,1
+69,99,5873 Wheatland Road,,Baltimore,Maryland,3,1
+70,99,4378 Wyse Avenue,,Boston,Massachusetts,3,1
+71,99,834 Longfellow Avenue,,Buffalo,New York,3,1
+72,99,87 First Avenue,,New York,New York,3,1
+73,100,843 24th Street West,,Billings,Montana,3,1
+74,100,2845 South Second Street,,Lincoln,Nebraska,3,1
+75,101,1902 Lancaster Street,,New York,New York,3,1
+76,101,762 Main Street,,New York,New York,3,1
+77,101,8831 Hetson Avenue,,New York,New York,3,1
+78,101,10423 Kenwood Road,Suite 221,Cincinnati,Ohio,3,1
+79,101,386 Governor Street,,Providence,Rhode Island,3,1
+80,102,332 South Main Street,P.O. Box 224,Hanover,New Hampshire,3,1
+81,103,795 South Jefferson,Suite 210,Springfield,Missouri,3,1
+82,103,743 Fraine Barracks Road,,Bismark,North Dakota,3,1
+83,103,582 NE Tomahawk Island Drive,,Portland,Oregon,3,1
+84,104,7543 South Carson Street,,Carson City,Nevada,3,1
+85,104,738 Stoney Road,,Las Vegas,Nevada,3,1
+86,104,702 North Meridian,Suite 220,Oklahoma City,Oklahoma,3,1
+87,104,1210 Somerville Avenue,P.O. Box 4390,Chattanooga,Tennessee,3,1
+88,104,83 Nirson Road,,Houston,Texas,3,1
+89,104,628 Prince Street,,Alexandria,Virginia,3,1
+90,104,17432 Aurora Ave. N.,,Seattle,Washington,3,1
+91,104,1733 Christopher Street,,Charleston,West Virginia,3,1
+92,105,1809 Tusalane Avenue,,Miami,Florida,3,0
+93,105,804 Fawcett Road,,Atlanta,Georgia,3,1
+94,105,832 Vensa Crescent,,Dallas,Texas,3,1
+95,106,932 Ohmey Avenue,,Los Angeles,California,3,1
+96,106,438 Kelson Road,,Los Angeles,California,3,1
+97,106,3410 Selson Avenue,,San Diego,California,3,1
+98,106,73 Stanley Avenue,,San Francisco,California,3,1
+99,106,37 Raleigh Avenue,,San Francisco,California,3,1
+100,95,4830 Princeton,Unit 2,Albuquerque,New Mexico,3,1
+101,95,6630 Burnet Road,,Austin,Texas,3,1
+102,108,2189 Louisville Road,,Independence,Kentucky,3,0
+103,109,1700 George Street,Suite 1B,San Francisco,California,3,1
+104,109,121 Dove Street,,Albany,New York,3,1
+105,109,36 Burside Street,,New York,New York,3,1
+106,109,3728 Lester Avenue,,New York,New York,3,1
+107,109,283 Mondela Street,,Dallas,Texas,3,1
+108,109,2893 South 700 West,,Salt Lake City,Utah,3,1
+109,110,266 S. Christopher Road,,Chapel Hill,North Carolina,3,1
+110,110,1488 Orleans Road,P.O. Box 1128,Charleston,South Carolina,3,1
+111,111,172 N. Cave Creek Road,,Phoenix,Arizona,3,1
+112,111,518 Colombe Street,,San Francisco,California,3,1
+113,112,19 Cavicta Avenue,,Boulder,Colorado,3,1
+114,113,3278 Crest Avenue,,Houston,Texas,3,1
+115,113,272 Main Street,,Montpelier,Vermont,3,1
+116,113,938 Jasmine Crescent,,Richmond,Virginia,3,1
+117,113,325 Wayside Street,,Seattle,Washington,3,1
+118,113,433 West Broadway,,Madison,Wisconsin,3,1
+119,113,4881 East Second Street,,Casper,Wyoming,3,1
+120,114,2015 Charles Drive,,Dover,Delaware,3,0
+121,114,16823 Atlantic Blvd.,,Jacksonville,Florida,3,1
+122,114,235 Salter Street,,Miami,Florida,3,1
+123,114,6392 Lakewood Avenue,,Atlanta,Georgia,3,1
+124,115,2103 Ashbury Street,P.O. Box 2167,Los Angeles,California,3,1
+125,115,333 Ustaff Way,Suite 67,San Diego,California,3,1
+126,115,76 Young Avenue,,Denver,Colorado,3,1
+127,115,"3411 Champlain Street, NW",Suite 110,Washington,DC,3,1
+128,115,1378 Toley Acres Road,,Miami,Florida,3,1
+129,115,2384 Klein Street,,Atlanta,Georgia,3,1
+130,116,35 Independence Drive,,Birmingham,Alabama,3,1
+131,116,937 Hilson Crescent,Suite 2-4,Boston,Massachusetts,3,1
+132,116,992 Delton Crescent,,Boston,Massachusetts,3,1
+133,116,5890 McCoy Drive,,Jackson,Mississippi,3,1
+134,116,809 Main Street,,Lake Placid,New York,3,1
+135,117,231 Linson Street,,Boulder,Colorado,3,1
+136,117,832 Rourson Avenue,,Denver,Colorado,3,1
+137,117,357 Trent Road,,Salt Lake City,Utah,3,1
+138,118,832 Mill Avenue,Unit 17,Phoenix,Arizona,3,1
+139,118,7773 Green Park Road,,Tucson,Arizona,3,1
+140,118,3866 Point Circle,,Little Rock,Arkansas,3,1
+141,118,1201 N. State College Blvd.,,Anaheim,California,3,0
+142,118,603 Blueridge Crescent,,Los Angeles,California,3,1
+143,118,92 Clark Road,,Las Vegas,Nevada,3,1
+144,119,2917 W. Bannock,,Boise,Idaho,3,1
+145,119,3211 E. Sherwood Road,Suite 101,Chicago,Illinois,3,1
+146,119,2101 West 6th Street,P.O. Box 1172,Indianapolis,Indiana,3,1
+147,119,6894 Jefferson,,Detroit,Michigan,3,1
+148,119,1655 East Superior Street,,Duluth,Minnesota,3,1
+149,119,1730 St. Joseph Street,Suite 125,Rapid City,South Dakota,3,1
+150,120,1206 Spenard Road,,Anchorage,Alaska,3,1
+151,121,1529 Kapahula Avenue,,Honolulu,Hawaii,3,1
+152,122,731 Victoria Avenue,,San Diego,California,3,1
+153,122,5538 Arapahoe,Suite 10,Boulder,Colorado,3,1
+154,122,927 Burney Street,,Denver,Colorado,3,1
+155,123,1290 21st Ave. SW,,Cedar Rapids,Iowa,3,1
+156,123,5321 SW. Fairlawn,,Topeka,Kansas,3,1
+157,123,295 Farm Road,,Portland,Maine,3,1
+158,123,172 Huntington Avenue,,Boston,Massachusetts,3,1
+159,123,7332 Atlantic Avenue,,Atlantic City,New Jersey,3,1
+160,123,567 Rivington Avenue,,New York,New York,3,1
+161,123,463 Bateman Drive,,New York,New York,3,1
+162,123,237 Paltrim Road,,New York,New York,3,1
+163,123,2219 Fritchey Street,,Philadelphia,Pennsylvania,3,1
+164,124,738 Greyling Street,,San Diego,California,3,1
+165,124,1623 Elmont Way,,Boulder,Colorado,3,1
+166,124,9023 Mainline Road,,Denver,Colorado,3,1
+167,124,2845 Elise Drive,P.O. Box 12496,Baton Rouge,Louisiana,3,1
+195,1,"49, boul. d'Arcole",Cedex 101,Paris,,1,1
+196,1,"61, place des Églantiers",Boîte postale 3478,Paris,,1,1
+197,1,"12, rue Mulhouse",,Strasbourg,,1,1
+198,15,"22, rue Saint-Jean",,Lyon,,1,1
+199,15,"34, route de Marseille",,Nice,,1,1
+200,23,"30, boul. de Québec",,Orléans,,1,1
+201,32,"9, rue Sala",,Lyon,,1,1
+202,32,"2, rue des Ponchettes",,Nice,,1,1
+203,32,"126, avenue Genier",Cedex 23,Paris,,1,1
+204,32,"18, rue des Écoliers",Cedex 03,Paris,,1,1
+205,33,"15, rue Capdeville",,Bordeaux,,1,1
+206,33,"120, rue Martel",,Chamonix,,1,1
+207,33,"100, avenue du Marché",Boîte postale 250,Poitiers,,1,1
+208,33,"46, voie du Maréchal",,Roubaix,,1,1
+209,34,"5, rue Vercors",,Grenoble,,1,1
+210,35,"124, boul. Henri-Ronard",Boîte postale 800,Annecy,,1,1
+211,35,"27, cours du Médoc",,Bordeaux,,1,1
+212,35,"45, rue Vaubecour",,Lyon,,1,1
+213,35,"18, rue St-Denis",Cedex 25,Paris,,1,1
+214,35,"1, rue Descartes",,Roubaix,,1,1
+215,37,"1, rue de la Contrescarpe",Boîte postale 8000,Nantes,,1,1
+216,37,"50, rue de Bagnolet",,Paris,,1,1
+217,37,"24b, avenue Gustave",,Strasbourg,,1,1
+218,37,"205, rue Richelieu",,Tours,,1,1
+219,125,"67, avenue Daumesnil",Boîte postale 16,Marseille,,1,1
+220,125,"200, boul. des Cerisiers",,Nice,,1,1
+221,125,"4, rue André-Ampère",,Orléans,,1,1
+222,125,"12, rue de Vaneau",Cedex 07,Paris,,1,1
+223,125,"14, rue Ménilmontant",,Paris,,1,1
+224,126,Calle Tulum No. 45,Brisas,Cancún,Quintana Roo,20,1
+225,126,"Oriente 233, No. 341",Industrial Vallejo,Distrito Federal,México,20,1
+226,126,Avda. Chapultepec 246-303,Virreyes,Distrito Federal,México,20,1
+227,126,Av. Pacífico No. 164,Chapalita,Guadalajara,Jalisco,20,1
+228,126,Plaza Federales No. 19,Circunvalación,Puerto Vallarta,Jalisco,20,1
+229,127,Francisco Munguía No. 45,Atahualpa,Monterey,Nuevo León,20,1
+230,128,"Río Rhin 56, Piso 6",Cuauhtemoc,Distrito Federal,México,20,1
+231,128,"Tuxpan No. 54, Int. 509",Roma Sur,Distrito Federal,México,20,1
+232,128,Cerro de La Libertad 158,Campestre Churubusco,Distrito Federal,México,20,1
+233,128,Via. Dr. Gustavo Baz 8000,Tlalnepantla,México City,México,20,1
+235,129,1-8 Konohana,Konohana-ku,Osaka-shi,Osaka,11,1
+236,136,346-126 Nishikamakuracho,Naka-ku,Hiroshima-shi,Hiroshima,11,1
+237,131,23-1-9 Jingukouen Mae,Koutou-ku,Tokyo,Tokyo,11,1
+238,131,900-23-564 Kanda Ogawamachi,Chiyoda-ku,Tokyo,Tokyo,11,1
+239,135,342-1-17 Kansaibashi,Ikuno-ku,Osaka-shi,Osaka,11,1
+240,129,232-87-515 Nakano,Miyagino-ku,Sendai-shi,Miyagi,11,0
+241,129,433-17-230 Shimozaki,Hakata-ku,Fukuoka-shi,Fukuoka,11,1
+242,130,31-14-99 Higashi Ikebukuro,Toshima-ku,Tokyo,Tokyo,11,1
+243,134,672-321 Kanda Ogawamachi,Chiyoda-ku,Tokyo,Tokyo,11,1
+244,129,341-31-5 Furuikemachi,Minami-ku,Hiroshima-shi,Hiroshima,11,0
+245,130,110-981 Hayashicho,Asakita-ku,Hiroshima-shi,Hiroshima,11,1
+246,130,31-6-61 Tomoshiro,Minami-ku,Hiroshima-shi,Hiroshima,11,1
+247,130,1-1-1 Hamakubo,Shibuya-ku,Tokyo,Tokyo,11,1
+248,132,78-98-390 Tennou,Chuou-ku,Fukuoka-shi,Fukuoka,11,1
+249,132,981-628-582 Fukushima,Fukushima-ku,Osaka-shi,Osaka,11,1
+250,132,765-789-432 Nakano,Naka-ku,Tokyo,Tokyo,11,1
+251,132,3-4-2 Hongou,Bunkyo-ku,Tokyo,Tokyo,11,1
+252,132,553-11-22 Sotokanda,Chiyoda-ku,Tokyo,Tokyo,11,1
+253,133,452-321-5 Kumaishi,Nishi-ku,Fukuoka-shi,Fukuoka,11,1
+254,133,20-190-2 Hashizakimachi,Taihaku-ku,Sendai-shi,Miyagi,11,1
+255,133,876-9-873 Higashiaoyama,Shibuya-ku,Tokyo,Tokyo,11,1
+256,134,1-8 Miyakojima,Miyakojima-ku,Osaka-shi,Osaka,11,1
+257,134,11-33-11 Hita,Kita-ku,Osaka-shi,Osaka,11,1
+258,134,443-21 Kaminagaramachi,Naka-ku,Hiroshima-shi,Hiroshima,11,1
+259,134,784-55-98 Naniwa,Naniwa-ku,Osaka-shi,Osaka,11,1
+260,137,Finlandsgatan 20,,Stockholm,,10,1
+261,137,Ågatan 15,,Arvika,,10,1
+262,137,Forsgatan 18,,Karlstad,,10,1
+263,137,Gustavsgatan 1,,Ludvika,,10,1
+264,137,Ejdergatan 7 B,,Sundsvall,,10,1
+265,138,Apoteksgatan 2,,Bollnäs,,10,1
+266,138,Datavägen 56,,Malmö,,10,1
+267,138,Eklundsgatan 18,,Göteborg,,10,1
+268,138,Gröna vägen 32,,Solna,,10,1
+269,37,Ängsgatan 45,,Stockholm,,10,1
+270,37,Carl Gustavs Väg 21,,Malmö,,10,1
+271,140,Drottninggatan 21,,Mölndal,,10,1
+272,141,Beets 36,,Beets,,7,1
+273,141,Perestraat 1,,Deventer,,7,1
+274,141,Laan van Meerdervoort 966,,Den Haag,,7,1
+275,141,Kalfjeslaan 47,,Amstelveen,,7,1
+276,141,Startbaan 11,,Amstelveen,,7,1
+277,142,Noorderspoorsingel 28,,Groningen,,7,1
+278,143,Hogehilweg 13,,Amsterdam,,7,1
+279,143,Spoorstraat 43,,Varsseveld,,7,1
+280,144,Westhavenweg 8,,Amsterdam,,7,1
+281,144,Westzeedijk 4,,Muiden,,7,1
+282,144,Gooiergracht 91,,Laren,,7,1
+283,144,Hoofdstraat 150,,Pieterburen,,7,1
+284,145,Olde Diek 2,,Laren,,7,1
+285,145,Amsterdamsestraatweg 8,,Maarssen,,7,1
+286,145,Krayenhoffstraat 11,,Amsterdam,,7,1
+287,145,Overschiestraat 19,,Amsterdam,,7,1
+288,145,Havenbuurt 12,,Marken,,7,1
+289,146,Duivendaal 1,,Wageningen,,7,1
+290,146,Voorstraat 37,,Nieuweschans,,7,1
+291,146,Stadhouderslaan 18,,Rotterdam,,7,1
+304,147,Corso XXII Marzo 69,,Bologna,,6,1
+305,147,Viale Argonne 61,,Bergamo,,6,1
+306,147,Via Cherubini 26,,Firenze,,6,1
+307,147,Via C. Colombo 31,,Milano,,6,1
+308,147,Piazza Riaffrico 19,,Roma,,6,1
+309,148,Via Industriale 76,,Torino,,6,1
+310,148,Corso Umberto II 168,,Genova,,6,1
+311,148,Via Monte Ceneri 33,,Napoli,,6,1
+312,148,Corso Matteotti 125,,Roma,,6,1
+313,149,Viale Romagna 67,,Roma,,6,1
+314,149,Piazza Doggale 17,,Venezia,,6,1
+315,150,Corso Buenos Aires 45,,Milano,,6,1
+316,155,2415 Queen's Ave,,Melbourne,VIC,16,1
+317,157,120 Southern Ocean Dr,Unit 16,Brisbane,VIC,16,1
+318,155,125 Victoria Road,,Cairns,VIC,16,1
+319,155,32 Angora Road,,Perth,NSW,16,1
+320,156,14 Phillip St.,26th Floor,Cairns,VIC,16,1
+321,155,295 Tall Trees Ave.,23rd Floor,NewCastle,NSW,16,1
+322,157,945 St. Kilda Ave.,Level 14,Sydney,VIC,16,1
+323,157,219 Queen Victoria Street,Level 10,Melbourne,VIC,16,1
+324,157,29 Macquaric St.,# 17,NewCastle,NSW,16,1
+325,157,936 Castlereich St.,Level 6,Sydney,NSW,16,1
+326,158,"Atlántico, 56",,Barcelona,Barcelona,19,1
+327,158,"Córcega, 89-E",,Barcelona,Barcelona,19,1
+328,159,"Latorre, 56",,Barcelona,Barcelona,19,1
+329,158,"Arenal, 90",,Bilbao,Vizcaya,19,1
+330,158,"Laurel, 2",,Logroño,La Rioja,19,1
+331,159,"San Millán, 3-10",,Logroño,La Rioja,19,1
+332,158,"Carrera de Oriente, 58-5",,Madrid,Madrid,19,1
+333,159,"Núñez de Balboa, 46",,Madrid,Madrid,19,1
+334,159,"Romareda, 24",Edificio La Trompa,Zaragoza,Zaragoza,19,1
+335,160,"Alameda Santos, 9876",6o. Andar,São Paulo,SP,21,1
+336,161,Bredgade 33,,København,,18,1
+337,37,St. Kongens Vej,,København,,18,1
+338,161,Århusgade 55,,Kolding,,18,1
+339,161,H.C. Andersens Gade 91,,Roskilde,,18,1
+340,161,Europavej 99,,Aarhus,,18,1
+341,161,Bronzevej 18,,Birkerød,,18,1
+342,168,Yrittäjänkatu 21,,Tampere,,22,1
+343,168,Simontie 1,,Porvoo,,22,1
+344,168,Stenbäckinkatu 9,,Turku,,22,1
+345,168,Kirkkopuistikko 4,,Helsinki,,22,1
+346,168,Mikkolantie 1,,Vantaa,,22,1
+347,170,"56-8, Kamman-Dong",Nam-Ku,Pusan,,13,1
+348,172,"514-3, Daechi-Dong",Kangnam-Ku,Seoul,,13,1
+349,170,"78-1, Do-Dong",Tong-Ku,Taegu,,13,1
+350,170,"987-6, Seocho-Dong",Seocho-Ku,Seoul,,13,1
+351,170,"89-4, Mok-Dong",Chung-Ku,Taejeon,,13,1
+352,171,"56-3, Namchun-Dong",Suyoung-Ku,Pusan,,13,1
+353,171,"997-6, Samsung-Dong",Kangnam-Ku,Seoul,,13,1
+354,171,"103-1, Yangjae-Dong",Seocho-Ku,Seoul,,13,1
+355,171,"78-1, Juahn-Dong",Nam-Ku,Incheon,,13,1
+356,171,"86-7, Gung-Dong",Tong-Ku,Kwangju,,13,1
+357,174,"100-1, Jing-Ping Road",,Chungho City,Taipei,12,1
+358,172,"75, Chung-Yi Road",,Tucheng City,Taipei,12,1
+359,174,"329, Section 1, Wen-Hua Road",Section 1,Banchiao City,Taipei,12,1
+360,172,"86, Shing-Fu Road",,Shinchuang City,Taipei,12,1
+361,174,"139, Bei-Da Road",,Hsinchu,Hsinchu,12,1
+362,173,"19, Wu-Chiuan 2nd Road",,Wugu Shiang,Taipei,12,1
+363,172,"328, Wu-Hua Street",,Sanchung City,Taipei,12,1
+364,174,"637, Chun-Zih Road",,Taoyuan City,Taoyuan,12,1
+365,172,"335, Chung-Ching Road",,Banchiao City,Taipei,12,1
+366,174,"1F, No.2, Chung-Cheng Road",,Shulin City,Taipei,12,1
+376,175,No. 59 Yangfangdian Xi,Haidian District,Beijing,,14,1
+377,177,No.1 Fuxing Road,,Beijing,,14,1
+378,175,No. 133 Shangdong St.,,Chengdu,Sichuan,14,1
+379,177,No. 339 Huanshi Dong Road,,Guangzhou,Guangdong,14,1
+380,175,No. 371 Huanshi Dong Road,,Guangzhou,Guangdong,14,1
+381,176,No. 318 Huancheng Bei Road,,Hangzhou,Zhejiang,14,1
+382,175,No. 822 Nanzhen Road,,Shanghai,,14,1
+383,177,No. 283 Huaihai Zhong Road,Luwan District,Shanghai,,14,1
+384,177,"22/F, Shuian Center",8 Harbour Road,Chaiwan,Hong Kong,14,1
+385,177,No. 18 Xinxing St.,,Zhengzhou,Henan,14,1
+386,181,139 Page Street,,London,,9,1
+387,182,Kelvin House,Talisman Road,Birmingham,West Midlands,9,1
+388,180,The Beeches,14 Church Street,Bristol,Avon,9,1
+389,180,14 Bath Road,,London,,9,1
+390,183,Seaton House,3 Aberford Road,Reading,Berkshire,9,1
+391,183,1 Cherry Lane,Mole Business Park,London,,9,1
+392,181,1 Tudor Court,Regent Street,Milton Keynes,Buckinghamshire,9,1
+393,178,11 The Golf Links,,Southampton,Hampshire,9,1
+394,179,202 Llantwit Road,,Oxford,Oxfordshire,9,1
+395,179,223 Denmark Road,,London,,9,1
+396,183,24 The Lanes,,Brighton,Sussex,9,1
+397,181,60 Princess Street,,London,,9,1
+398,181,62 Ashbourne Road,,Bristol,Avon,9,1
+399,183,64 Primett Road,,Southampton,Hampshire,9,1
+400,184,7 Holgate Court,Western Road,Milton Keynes,Buckinghamshire,9,1
+401,182,7 Milford Street,,Southampton,Hampshire,9,1
+402,181,85 Frampton Street,,London,,9,1
+403,183,Albany House, 20 Gordon Road,Brighton,Sussex,9,1
+404,178,Bridge Court,21 Bridge Street,Brighton,Sussex,9,1
+405,178,Canada House,Station Road,London,,9,1
+406,181,City House,15 City Square,London,,9,1
+407,182,Exchange Court,1 Exchange Square,Brighton,Sussex,9,1
+408,182,Keyford Court,12 Church Street,Nottingham,Nottinghamshire,9,1
+409,178,The Valley Centre,Friar Street,London,,9,1
+410,180,Vanwall Business Park,601 Warwick Road,Reading,Berkshire,9,1
+411,188,Grafenau 12,,Basel,,8,1
+412,37,"56, route de Genève",,Lausanne,,8,1
+413,37,Piazza dell'Indipendenza 14,,Bellinzona,,8,1
+414,185,Neuhof 5,,Kirchberg,,8,1
+415,188,Kirchstraße 66,,Zürich,,8,1
+416,37,Via Lago 51,,Lugano,,8,1
+417,186,"66, rue du Président",,Genève,,8,1
+418,186,"123, rue des Chocolatiers",,Lausanne,,8,1
+419,186,"65, rue de l'Horloge",,Fribourg,,8,1
+420,186,"89, route d'Evian",,Genève,,8,1
+421,188,Treichlerstrasse 124,,Zürich,,8,1
+422,186,Siwerdstraße 104,,Zürich,,8,1
+423,188,Hauptstraße 53,,St. Gallen,,8,1
+424,189,Leuvensesteenweg 325,,Zaventem,,17,1
+425,189,Hospitaalstraat 17,,Sint-Niklaas,,17,1
+426,189,Waaistraat 6,,Leuven,,17,1
+427,189,Pelikaanstraat 70,,Antwerpen,,17,1
+428,193,Avenue des 9 Provinces 3,B 109,Bruxelles,,17,1
+429,194,Rue de la Grande Campagne 3,,Arlon,,17,1
+430,194,Rue Des Déportés 143,,Arlon,,17,1
+431,194,Rue Sainte Véronique 2 D,,Liège,,17,1
+432,194,Bld Zoe Drion,,Charleroi,,17,1
+433,194,Bld De La Sauvenière 12,,Liège,,17,1
+434,211,Hofstraße 77,,Wien,,5,1
+435,211,Steinweg 4,,Kottingbrunn,,5,1
+436,211,Spielstraße 22,,Ternitz,,5,1
+437,211,Linzer Straße 35,,Loorsdorf,,5,1
+438,211,Im Weingarten 90,,Graz,,5,1
+439,209,Hüttenstraße 87,,Klosterneuburg,,5,1
+440,209,Hauptstraße 85,,Linz,,5,1
+441,209,Amselweg 8,,Innsbruck,,5,1
+442,209,Hasengasse 38,,Ischgl,,5,1
+443,210,Hammerstraße 26,,Innsbruck,,5,1

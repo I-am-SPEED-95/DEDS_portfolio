@@ -1,0 +1,22 @@
+COUNTRY_CODE,COUNTRY_EN,FLAG_IMAGE,SALES_TERRITORY_CODE
+1,France,F01,6
+2,Germany,F02,6
+3,United States,F03,1
+4,Canada,F04,1
+5,Austria,F05,7
+6,Italy,F06,7
+7,Netherlands,F07,5
+8,Switzerland,F08,6
+9,United Kingdom,F09,6
+10,Sweden,F10,5
+11,Japan,F11,4
+12,Taiwan,F12,4
+13,Korea,F13,4
+14,China,F14,4
+16,Australia,F15,4
+17,Belgium,F16,6
+18,Denmark,F17,5
+19,Spain,F18,7
+20,Mexico,F19,1
+21,Brazil,F20,1
+22,Finland,F21,5

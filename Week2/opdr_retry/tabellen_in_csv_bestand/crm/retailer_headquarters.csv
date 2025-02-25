@@ -1,0 +1,415 @@
+RETAILER_CODEMR,RETAILER_NAME,ADDRESS1,ADDRESS2,CITY,REGION,COUNTRY_CODE,PHONE,FAX,SEGMENT_CODE
+1,Rock Steady,"45, rue Atwater",,Montréal,Québec,4,1 (514) 747-4481,1 (514) 741-2277,2
+2,Ultra Sports,"2425, rue Peel",,Montréal,Québec,4,1 (514) 746-1273,1 (514) 747-2582,11
+3,Mountain Madness,56 North Way Street,,Whitehorse,Yukon,4,1 (867) 667-6953,1 (867) 670-7293,7
+4,VIP Department Stores,"Suite 125, 129th Street",,Vancouver,British Columbia,4,1 (604) 685-1544,1 (604) 682-3059,4
+5,Falcon Outfitters,9755 Riverside Drive,,Ottawa,Ontario,4,1 (613) 741-5538,1 (613) 740-6701,1
+6,Maximum Sports,"Suite 12, 801 Dundas Street",,Toronto,Ontario,4,1 (416) 495-1223,1 (416) 491-8738,12
+7,Act'N'Up Fitness,"87, 2399 Sommerset Avenue",,Toronto,Ontario,4,1 (416) 496-9093,1 (416) 496-5066,8
+8,Le Golfeur,"500, Place d'Armes",Bureau 1061,Montréal,Québec,4,1 (514) 747-9880,1 (514) 741-1610,3
+9,Over the Top Cycles,23 Nowlan Drive,,Moncton,New Brunswick,4,1 (506) 849-8756,1 (506) 849-6432,7
+10,Excellence en Montagne,"160, rue Moureaux",Bureau 410,Ville de Québec,Québec,4,1 (418) 653-6456,1 (418) 653-2311,2
+11,Vacation Central,"3000, 58 Merivale Road",,Ottawa,Ontario,4,1 (613) 736-6443,1 (613) 736-5593,6
+12,Outdoor Central Ltd,"Suite 23, 180 McKercher Drive",,Regina,Saskatchewan,4,1 (306) 243-8764,1 (306) 243-5213,2
+13,Precipice Equipment,23 Blackcomb Way,,Whistler,British Columbia,4,1 (604) 938-7564,1 (604) 938-2324,1
+14,Clear Valley Waters,12 9th Street,,Winnipeg,Manitoba,4,1 (204) 233-9587,1 (204) 233-7423,7
+15,Eyewear 2000,1690 Barrington Street,,Halifax,Nova Scotia,4,1 (902) 490-6285,1 (902) 490-7125,10
+16,Expert Fitness,"1250 Bow Trail, SW",,Calgary,Alberta,4,1 (403) 243-5606,1 (403) 243-5316,8
+17,Andes Camping Supplies,11 Moose Road,,Banff,Alberta,4,1 (403) 762-8672,1 (403) 762-8091,2
+18,Golfer's Paradise,34a 45th Avenue,,London,Ontario,4,1 (519) 652-8653,1 (519) 652-6734,3
+19,Fresh Air Co,"Suite 1200, 25 53rd Street.",,Edmonton,Alberta,4,1 (403) 482-5634,1 (403) 482-3456,2
+20,Mountaineering Gear,1599 Marine Drive,,West Vancouver,British Columbia,4,1 (604) 925-6573,1 (604) 925-0987,1
+21,Boutique L'Aventure,"5403, rue Côte-des-Neiges",,Montréal,Québec,4,1 (514) 846-2645,1 (514) 846-2229,12
+22,Clubhouse Sports,2400 Granville Street,,Vancouver,British Columbia,4,1 (604) 687-2719,1 (604) 687-2720,12
+23,Der Fitness-Doktor,Porschestraße 54,,Bonn,,2,+(49) 221 663 431,+(49) 221 773 431,12
+24,Sport & Freizeit,Kaiserstraße 37,,Dresden,,2,+(49) 351 616 132,+(49) 351 525 218,5
+25,Holstein Golf,Jubelstraße 23,,Berlin,,2,+(49) 30 553 0999,+(49) 30 553 0892,3
+26,Die Zeltstadt,Leibnitzstraße 53,,Kiel,,2,+(49) 431 185 242,+(49) 431 185 541,8
+27,In die Berge!,Am Mainkai 17,,Frankfurt,,2,+(49) 69 122 1800,+(49) 69 122 1893,2
+28,Weitblick,Händelstraße 81,,Bremen,,2,+(49) 421 623 154,+(49) 421 325 177,10
+29,Der Camping-Laden,Märzenstraße 8,,Nürnberg,,2,+(49) 911 778 899,+(49) 911 667 788,2
+30,Club und Freizeit GmbH,Lyoner Straße 99,,Aachen,,2,+(49) 231 506 241,+(49) 231 876 123,1
+31,Aktive Freizeit,Wolf-Maier-Straße 28,,Passau,,2,+(49) 944 434 343,+(49) 944 429 182,9
+32,Die Bergexperten,Gutenbergring 52,,Rüsselsheim,,2,+(49) 614 278 010,+(49) 614 278 011,7
+33,Die Sportstube,Wabenweg 9,,Arnsberg,,2,+(49) 2931 234 700,+(49) 2931 230 700,12
+34,Naturbewußt,Bahnstraße 15,,Ulm,,2,+(49) 621 875 643,+(49) 621 875 443,6
+35,Die Camping-Halle,Kirchengasse 18,,München,,2,+(49) 89 432 8876,+(49) 89 532 1469,8
+36,Der Camping-Spezialist,Volmestraße 77,,Bochum,,2,+(49) 234 853 325,+(49) 234 853 320,6
+37,Super-Tourist,Graf-Otto-Platz 5-6,,Düsseldorf,,2,+(49) 211 484 971,+(49) 211 484 970,9
+38,Schnelle Fitness,Hattinger Straße 112,Postfach 56 12,Karlsruhe,,2,+(49) 721 851 140,+(49) 721 851 149,9
+39,Sport Aktuell,Schillerstraße 98,,Bonn,,2,+(49) 226 465 549,+(49) 225 416 632,11
+40,Ins Freie!,Klöppelgasse 1,,Dortmund,,2,+(49) 231 885 342,+(49) 231 673 231,2
+41,Zelte und mehr,Frauenhofer Straße 34,,Stuttgart,,2,+(49) 711 229 955,+(49) 711 338 866,9
+42,Reisemarkt,Carl-Benz-Straße 103,,Duisburg,,2,+(49) 203 726 491,+(49) 203 627 282,8
+43,Wanderliebe,Hofzeile 17,,Frankfurt,,2,+(49) 69 433 5681,+(49) 69 422 5792,9
+44,Freizeit-Consult,Weimarer Straße 35,,Frankfurt,,2,+(49) 69 561 7745,+(49) 69 561 7748,7
+45,Rad und Tat,Am Yachthafen 5,,Hamburg,,2,+(49) 40 666 6802,+(49) 40 666 1061,6
+46,Zielmarkt,Kranstraße 11,,Düsseldorf,,2,+(49) 211 634 175,+(49) 211 777 438,8
+47,Optik,Walpurgisplatz 11,,Hannover,,2,+(49) 511 826 113,+(49) 511 826 003,10
+48,Superhike,Riedstraße 12,,Krefeld,,2,+(49) 215 122 084,+(49) 215 122 085,2
+49,Wanderwelt,Am Nordend 67,,Landshut,,2,+(49) 8773 664 330,+(49) 8773 634 310,2
+50,Sport-Lagerhalle,Weimarer Straße 47,,Frankfurt,,2,+(49) 69 561 7754,+(49) 69 561 7755,8
+51,Der Alpinist,Waldweg 3,,München,,2,+(49) 89 776 1271,+(49) 89 771 1020,1
+52,Sportwaren GmbH,Prinzenstraße 47,Postfach 10,Solingen,,2,+(49) 212 448 000,+(49) 212 448 100,4
+55,Big T's Camping Supplies,301 Cumberland Avenue,,Edmonton,Alberta,4,1 (403) 446-7064,1 (403) 446-7113,2
+56,Lookout Below Ltd,16 Creekside Road,,Kelowna,British Columbia,4,1 (250) 763-1719,1 (250) 764-6394,1
+57,Hill Street Sports,901 Kingsmere Road,,Kingston,Ontario,4,1 (613) 541-7204,1 (613) 545-2318,12
+58,Wilderness Wonderment Ltd,27 Taskely Road,RR #1,Peace River,Alberta,4,1 (403) 835-2208,1 (403) 835-2209,9
+59,All Season Camping Goods,2311 10th Street West,,Thunder Bay,Ontario,4,1 (807) 577-1657,1 (807) 577-2712,2
+60,Pack Man,"400, 11 Patrick Street",,Trenton,Ontario,4,1 (613) 392-0404,1 (613) 392-4585,1
+62,Alpenfreizeit,Kurze Meile 125,,Bremen,,2,+(49) 421 903 261,+(49) 421 808 965,2
+65,Gipfelstürmer,Lortzingplatz 18,,Köln,,2,+(49) 221 989 349,+(49) 221 934 569,2
+66,Ralph's Hike-Shop,Mollenbachstr. 28,,Leonberg,,2,+(49) 715 283 100,+(49) 715 283 110,2
+69,Outdoor Gear Co-op,4378 Wyse Avenue,,Boston,Massachusetts,3,1 (617) 268-8819,1 (617) 268-9292,8
+70,Golf Masters,2845 South Second Street,,Lincoln,Nebraska,3,1 (402) 475-4317,1 (402) 475-4717,3
+71,The Marketplace,1902 Lancaster Street,,New York,New York,3,1 (212) 477-7132,1 (212) 477-9716,5
+72,Camping Equipment Online,332 South Main Street,P.O. Box 224,Hanover,New Hampshire,3,1 (603) 448-9004,1 (603) 448-6412,7
+73,Tamarack Outfitter Rentals,582 NE Tomahawk Island Drive,,Portland,Oregon,3,1 (503) 285-0954,1 (503) 285-0894,9
+74,Extreme Outdoors,83 Nirson Road,,Houston,Texas,3,1 (713) 524-1301,1 (713) 524-3215,2
+75,Eye Dimensions,832 Vensa Crescent,,Dallas,Texas,3,1 (972) 247-5498,1 (972) 247-4871,10
+76,Donovan's Sports,932 Ohmey Avenue,,Los Angeles,California,3,1 (213) 747-1278,1 (213) 747-4456,12
+77,Expedition Outfitters,6630 Burnet Road,,Austin,Texas,3,1 (512) 451-9338,1 (512) 451-5434,2
+78,Trail Masters,2189 Louisville Road,,Frankfurt,Kentucky,3,1 (502) 223-6801,1 (502) 223-5391,2
+79,Second Wind Sports,283 Mondela Street,,Dallas,Texas,3,1 (972) 247-4508,1 (972) 247-5888,12
+80,The Golf Hut,1488 Orleans Road,P.O. Box 1128,Charleston,South Carolina,3,1 (803) 571-9906,1 (803) 571-7802,3
+81,Buena Vista Eyeware,172 N. Cave Creek Road,,Phoenix,Arizona,3,1 (602) 788-6812,1 (602) 788-6694,10
+82,Edward's Department Store,325 Wayside Street,,Seattle,Washington,3,1 (206) 292-3015,1 (206) 292-5489,5
+83,Consumer Club,333 Ustaff Way,Suite 67,San Diego,California,3,1 (619) 223-6615,1 (619) 223-3165,8
+84,Connor Department Store,937 Hilson Crescent,Suite 2-4,Boston,Massachusetts,3,1 (617) 268-7629,1 (617) 268-3091,5
+85,By A Thread,231 Linson Street,,Boulder,Colorado,3,1 (303) 449-6582,1 (303) 449-7818,2
+86,Hartman's,3866 Point Circle,,Little Rock,Arkansas,3,1 (501) 821-8518,1 (501) 821-7731,5
+87,Mega-Outlet,1655 East Superior Street,,Duluth,Minnesota,3,1 (218) 722-8502,1 (218) 722-4311,8
+88,The Caddy's Corner,1529 Kapahula Avenue,,Honolulu,Hawaii,3,1 (808) 737-3899,1 (808) 737-0961,3
+89,American Home,1290 21st Ave. SW,,Cedar Rapids,Iowa,3,1 (319) 390-2288,1 (319) 390-5310,5
+90,Weston Outfitters,738 Greyling Street,,San Diego,California,3,1 (619) 223-1235,1 (619) 223-1245,2
+91,"Artículos de Campismo El Aquila, S.A. de C.V.",Avda. Chapultepec 246-303,Virreyes,Distrito Federal,México,20,+(525) 684 7127,+(525) 684 7119,2
+92,"Todo para el Golf, S.A. de C.V.",Francisco Munguía No. 45,Atahualpa,Monterey,Nuevo León,20,+(528) 366 6773,+(528) 366 6717,3
+93,"MER-KA-DOS, S.A. de C.V.","Río Rhin 56, Piso 6",Cuauhtemoc,Distrito Federal,México,20,+(525) 645 9288,+(525) 645 9200,5
+131,"Bicicletas La Rueda, S.A. de C.V.",Av. De la República 103,Cuauhtemoc,San Nicolás de los Garza,Nuevo León,20,+(523) 698 1456,+(523) 698 1450,8
+132,"Cyclo-cross, S.A. de C.V.",Av. Industrias Pte. No. 3,Industrial Poniente,Monterey,Nuevo León,20,+(528) 315 1277,+(528) 315 1277,2
+133,"Deportes Pepe, S.C.",Blvd. Adolfo López Mateos 3210,Julian de Obregón,León,Guanajuato,20,+(524) 731 1982,+(524) 731 1985,12
+134,"Deportes La Fortaleza, S.A. de C.V.",Bosques de Ciruelos No. 1,Bosques de las Lomas,Distrito Federal,México,20,+(525) 580 5320,+(525) 580 5320,11
+135,"Deportes Martín, S.A. de C.V.",Calz. De Tlalpan No. 1520,Villa de Cortés,Distrito Federal,México,20,+(525) 211 1515,+(525) 211 1500,6
+136,"Grupo Lozano, S.A. de C.V.",Calz. San Pedro 900 Sur,Fuentes del Valle,San Pedro Garza García,Nuevo León,20,+(523) 611 4899,+(523) 611 4578,9
+137,"Accesorios Importados, S.A. de C.V.",López Cotilla No. 429,Centro,Guadalajara,Jalisco,20,+(523) 613 9672,+(523) 613 9673,10
+138,OmniChoix,"143, avenue Toupin",,Avignon,,1,+33 4 83 06 41 53,+33 4 83 06 45 53,5
+139,Aventure Marché,"148, rue Parmesan",,Angoulême,,1,+33 2 73 38 26 62,+33 2 54 23 10 28,7
+140,Produits Vivifiants,"18, rue Bouvier",Boîte postale 8500,Paris,,1,+33 1 28 88 53 42,+33 1 26 67 32 31,6
+141,Cyclo-cross,"20, ave Teysseire",Boîte postale 1046,Grenoble,,1,+33 4 34 52 76 89,+33 4 34 52 78 10,9
+142,Mont Blanc,"202, boul. Hollande",,Chambéry,,1,+33 4 67 60 02 63,+33 4 67 60 56 72,9
+143,Le Montagnard,"21, place des Prés",,Valence,,1,+33 4 65 02 16 23,+33 4 65 02 55 87,9
+145,Folie Verticale,"23, rue Saussure",,Paris,,1,+33 1 35 55 45 22,+33 1 35 55 74 32,2
+146,L'Équipée,"275, rue de l'Étoile",Boîte postale 560,Paris,,1,+33 1 47 49 44 51,+33 1 47 46 78 61,1
+147,Par monts et par vaux,"3, boulevard de l'Opéra",Cedex 08,Paris,,1,+33 1 46 88 65 40,+33 1 46 88 65 42,2
+148,Piquets et propane,"3, rue des Deux Ponts",,Paris,,1,+33 1 56 71 85 14,+33 1 56 71 52 00,2
+149,Plein'R,"3, rue Pascal",,Chamonix,,1,+33 4 46 63 72 45,+33 4 46 63 72 87,2
+150,Courses Montagne,"30, boul. Diderot",Cedex 23,Paris,,1,+33 1 64 71 72 33,+33 1 64 71 32 54,2
+151,Vaisselle ALPES,"32, place de la Poste",,Caen,,1,+33 2 52 31 44 44,+33 2 52 44 20 44,2
+152,Sud Sports,"33, rue Mercadet",Boîte postale 180,Rennes,,1,+33 2 52 31 77 44,+33 2 52 31 66 44,12
+153,Sport Plaisir,"34, boul. Pictaves",Boîte postale 380,Poitiers,,1,+33 5 68 95 44 56,+33 5 96 35 66 47,12
+154,Au vieux montagnard,"38, rue Nationale",Cedex 04,Paris,,1,+33 1 65 27 67 34,+33 1 65 27 65 42,12
+155,La poudreuse,"40, montée Gilard",,Calais,,1,+33 3 05 31 67 11,+33 3 05 31 27 27,11
+156,Ski d'été,"41, rue Saint-Jacques",Boîte postale 2134,Paris,,1,+33 1 67 45 61 33,+33 1 67 45 68 33,12
+157,Sports d'Hiver,"45, cours Jean-Jaurès",,Grenoble,,1,+33 4 09 56 26 34,+33 4 63 59 26 43,12
+158,Berger Sport en gros,"61, boul. du Vélodrome",,Rouen,,1,+33 2 52 31 20 44,+33 2 52 31 94 60,8
+159,Aux meilleurs prix,"7, rue Marchand",,La Rochelle,,1,+33 5 53 33 41 31,+33 5 53 22 90 00,8
+160,Tout l'extérieur,"88, route de Vertou",,Nantes,,1,+33 2 07 97 60 60,+33 2 07 97 10 17,8
+161,Sports Magnet,5528 Government Blvd.,P.O. Box 4299,Mobile,Alabama,3,1 (334) 478-3719,1 (334) 478-7542,12
+162,Sporting Goods Direct,2460 Fairview Avenue,,Montgomery,Alabama,3,1 (334) 833-8900,1 (334) 833-8560,8
+163,Big Fundy Outfitters,1146 Sunset St,,Juneau,Alaska,3,1 (907) 780-9876,1 (907) 780-6776,1
+164,Terra Nova Camping Rentals,10442 N. Mulberry Place,,Tuscon,Arizona,3,1 (520) 575-6899,1 (520) 575-7895,9
+165,Bill's Cycle Shop,1290 Kirk Road,,Fayetteville,Arkansas,3,1 (501) 444-3888,1 (501) 444-8978,11
+166,Odds and Ends Fishing Tackle,2410 Grand View Drive,,Berkeley,California,3,1 (510) 848-9732,1 (510) 848-5682,2
+167,Algonquin Camping Supplies,12773 La Grange Ave.,,Los Angeles,California,3,1 (310) 207-2543,1 (310) 207-2346,2
+168,Granite Mountain Gear,1201 Water Street,,Oakland,California,3,1 (510) 893-4722,1 (510) 893-7423,1
+169,Wild Willy's Sports,3001 E. Orange Grove Blvd.,,Pasadena,California,3,1 (626) 744-3611,1 (626) 744-7312,12
+170,Kavanagh Sports,3253 Nuttman Street,,San Clara,California,3,1 (408) 988-3875,1 (408) 988-8445,11
+171,The Wilderness Hut,6754 Wawona Street,Suite 105,San Francisco,California,3,1 (415) 759-9473,1 (415) 759-3313,2
+172,Expedition Club,1255 Treat Avenue,,San Francisco,California,3,1 (415) 642-6507,1 (415) 642-7897,8
+173,Husky Outfitters,5388 N. Academy Blvd.,,Colorado Springs,Colorado,3,1 (719) 597-5810,1 (719) 597-7890,2
+174,Great Adventures,158 S. Ogden Street,,Denver,Colorado,3,1 (303) 808-3278,1 (303) 808-5578,2
+175,Billing's Department Store,2230 Connecticut Avenue,,Norwalk,Connecticut,3,1 (203) 838-7723,1 (203) 838-4563,5
+176,Red Wiggler Tackle Shop,2211 Connecticut Ave.,Suite 210,Washington,DC,3,1 (202) 289-0743,1 (202) 289-0871,2
+177,Eagle Eyes,138 Murphy Road,,Wilmington,Delaware,3,1 (302) 888.3520,1 (302) 888-5732,10
+178,Nature Voyageurs,10003 South Orange Blossom Trail,,Orlando,Florida,3,1 (407) 859-7211,1 (407) 859-4561,1
+179,Big Portage Outfitters,1903 Garber Drive,,Tallahassee,Florida,3,1 (805) 574-2350,1 (805) 574-2332,2
+180,The Wilderness Experts,3684 Bull Street,,Savannah,Georgia,3,1 (912) 598-4231,1 (912) 598-4371,2
+181,I-wear Direct,1520 Ala Moana Blvd.,,Honolulu,Hawaii,3,1 (808) 531-5718,1 (808) 531-7898,6
+182,The Golfing Pros,511 W. 37th Street,,Boise,Idaho,3,1 (208) 343-8119,1 (208) 343-7429,3
+183,Great Expeditions,2845 Fullerton Avenue,Suite 320,Chicago,Illinois,3,1 (773) 935-3280,1 (773) 935-3231,2
+184,Game On! Sports,4430 Stevenson Drive,P.O. Box 3571,Springfield,Illinois,3,1 (217) 529-4597,1 (217) 529-4997,12
+185,Vertical Frontiers Mountain Gear,1837 Manderly Drive,,Bloomington,Indiana,3,1 (812) 339-0060,1 (812) 339-5680,2
+186,Sportmans Warehouse,3823 Douglas Avenue,Unit 3,Des Moines,Iowa,3,1 (515) 277-7987,1 (515) 277-7437,8
+187,Great River Adventures,2856 E. Lincoln,,Wichita,Kansas,3,1 (316) 264-5908,1 (316) 264-5118,2
+188,Off Course Golf Shop,438 East Short Street,P.O. Box 6521,Lexington,Kentucky,3,1 (606) 233-0587,1 (606) 233-0511,3
+189,The Wilderness Depot,233 Fort Street,,Bangor,Maine,3,1 (207) 945-5472,1 (207) 945-5612,8
+190,Franklin's Department Store,1332 Crabbs Branch Way,Suite 200,Rockville,Maryland,3,1 (301) 417-8599,1 (301) 417-3408,5
+191,Outdoors Direct,912 Cambridge Street,,Burlington,Massachusetts,3,1 (781) 272-5612,1 (781) 272-3212,7
+192,The Driving Range,786 Fifth Street,,Grand Rapids,Michigan,3,1 (616) 776-7674,1 (616) 776-7741,3
+193,The Last Frontier,432 Oakcrest Ave.,,Saint Paul,Minnesota,3,1 (651) 636-5731,1 (651) 636-5501,1
+194,The Golf Cart,262 Courthouse Square,,Oxford,Mississippi,3,1 (601) 236-8992,1 (601) 236-8902,3
+195,Big Valley Camping Goods,12036 Manchester Road,,St. Louis,Missouri,3,1 (314) 968-7922,1 (314) 968-4589,2
+196,The Sport Pros,113 North Last Chance Gulch,,Helena,Montana,3,1 (406) 442-6732,1 (406) 442-8412,12
+197,Nature Bound,2843 Elm Street,P.O. Box 675,Manchester,New Hampshire,3,1 (603) 625-8673,1 (603) 625-2233,2
+198,The Sport Gurus,843 Harper Street,Suite 304,Newark,New Jersey,3,1 (973) 824-4591,1 (973) 824-4871,11
+199,Surf's Up!,128 Nassau Street,,Princeton,New Jersey,3,1 (609) 924-9472,1 (609) 924-9302,12
+200,Starting Line Sports,2130 Flatbush Avenue,,Brooklyn,New York,3,1 (718) 230-0583,1 (718) 230-8433,12
+201,Sports Crossing,574 E 10th Street,,New York,New York,3,1 (212) 780-4397,1 (212) 780-4891,12
+202,Base Camp Essentials,488 West 57 Street,Suite 1002,New York,New York,3,1 (212) 765-0554,1 (212) 765-0679,2
+203,Nature Lovers,2133 York Avenue,Suite 1010,New York,New York,3,1 (212) 535-1732,1 (212) 535-3211,2
+204,The World of Sports,78 Van Auker Street,,Rochester,New York,3,1 (716) 328-3991,1 (716) 328-3742,12
+205,The Bazaar,17433 Granite Street,P.O. Box 68432,Charlotte,North Carolina,3,1 (704) 583-2348,1 (704) 583-3148,5
+206,The Sports Market,5743 Royal Troon Drive,,Raleigh,North Carolina,3,1 (919) 836-3377,1 (919) 836-3789,12
+207,On the Green Rentals,3255 Payne Avenue,,Cleveland,Ohio,3,1 (216) 432-7452,1 (216) 432-7588,9
+208,Acute Sight,1106 South Ludlow Alley,,Columbus,Ohio,3,1 (614) 224-6895,1 (614) 224-4321,10
+209,Crazy Canucks,15882 NE Glisan Street,,Portland,Oregon,3,1 (503) 408-1722,1 (503) 408-1682,2
+210,Rent All Sports,786 5th Street,,Harrisburg,Pennsylvania,3,1 (717) 652-7878,1 (717) 652-7809,9
+211,The Mountain Specialists,12010 Crittenden Street,,Philadelphia,Pennsylvania,3,1 (215) 248-1003,1 (215) 248-1998,2
+212,The Canoe Experts,3723 Broad River Road,,Columbia,South Carolina,3,1 (803) 791-6987,1 (803) 791-6909,2
+213,Boot Camp Equipment,296 Harbor Town Square,,Memphis,Tennessee,3,1 (901) 527-6743,1 (901) 527-6782,8
+214,Fresh Air Fitness,9332 S. Staples,P.O. Box 1832,Corpus Christi,Texas,3,1 (512) 992-6890,1 (512) 992-6884,12
+215,Sports Vision,5863 Starcrest,,Dallas,Texas,3,1 (972) 247-5974,1 (972) 247-5931,12
+216,Parr's Golf Store,8834 Broadway,,San Antonio,Texas,3,1 (210) 828-3086,1 (210) 828-3011,3
+217,The Sports Factory,6723 South Laburnum Ave.,,Richmond,Virginia,3,1 (804) 226-4389,1 (804) 226-4119,5
+218,Mom's Camping Goods,17232 South Washington,P.O. Box 223,Tacoma,Washington,3,1 (253) 474-8764,1 (253) 474-8621,2
+219,Cycle Maniacs,1209 W. Florida St.,,Milwaukee,Wisconsin,3,1 (414) 276-4839,1 (414) 276-4520,12
+220,Peak Gear,5869 Polk Avenue,,Cheyenne,Wyoming,3,1 (307) 634-3497,1 (307) 634-7217,2
+221,Ultra Sport,Silvaweg 3,,Frankfurt,,2,+(49) 69 111 7171,+(49) 69 111 6161,12
+228,Altitudes extrêmes,"15, rue Capdeville",,Bordeaux,,1,+33 5 32 95 59 29,+33 5 32 59 87 69,1
+229,Anapurna,"30, boul. de Québec",,Orléans,,1,+33 2 97 38 21 76,+33 2 97 38 67 87,7
+230,Cordages Discount,"2, rue des Ponchettes",,Nice,,1,+33 4 35 22 12 34,+33 4 35 22 65 42,8
+231,Camping Sauvage,"45, rue Vaubecour",,Lyon,,1,+33 4 67 63 48 27,+33 4 67 63 87 09,2
+232,Grand choix,"205, rue Richelieu",,Tours,,1,+33 2 52 31 22 44,+33 2 52 31 11 44,4
+233,La bonne Forme,"67, avenue Daumesnil",Boîte postale 16,Marseille,,1,+33 4 42 17 57 57,+33 4 42 17 83 65,11
+234,SportsClub,"34, route de Marseille",,Nice,,1,+33 4 68 92 06 98,+37 4 68 92 06 78,3
+235,Golf Shop Jiro,232-87-515 Zundabashi,Miyagino-ku,Sendai City,Miyagi,11,81-92-985-2333,81-92-985-2334,3
+236,Japan Sports Youhinten,1-1-1 Hamakubo,,Shibuya-ku,Tokyo,11,81-3-5547-6209,81-3-5547-6210,12
+237,Hinode Megane,23-1-9 Jingukoen Mae,,Koto-ku,Tokyo,11,81-3-1888-7144,81-3-1888-7145,10
+238,Hanagata Golf Shop,78-98-390 Tenno,Naka-ku,Fukuoka City,Fukuoka,11,81-92-211-6511,81-92-211-6512,3
+239,Kanjosen Sport,11-33-11 Hita,Hita-ku,Osaka City,Osaka,11,81-6-439-0001,81-6-439-0002,11
+240,NIPPON Sofcon Net,346-126 Nishikamakuracho,Nakano-ku,Hiroshima City,Hiroshima,11,81-82-111-3265,81-82-111-3266,7
+241,Azabu Golf Shop,592-115-229 Azabujuban,,Minato-ku,Tokyo,11,81-3-0234-9949,81-3-0234-9500,3
+242,Daibutsu Golf Shop,993-1-541 Jotou,Jotou-ku,Osaka City,Osaka,11,81-6-489-2022,81-6-489-2023,3
+243,Fukuoka Golf Shop,452-321-5 Kumaishi,Kita-ku,Fukuoka City,Fukuoka,11,81-92-771-8957,81-92-771-8958,3
+244,Gyutan Golf Shop,1-6-15 Kokubuncho,Aoba-ku,Sendai City,Miyagi,11,81-22-862-1119,81-22-862-1120,3
+245,Hakata Tozanyouhin Senmonten,781-671 Nishihakata,Kitahakata-ku,Fukuoka City,Fukuoka,11,81-92-695-5557,81-92-695-5558,9
+246,Hankai Tozanyouhinten,188-785 Abeno,Abeno-ku,Osaka City,Osaka,11,81-6-183-1297,81-6-183-1298,9
+247,Hashimoto Sport Ten,111-44-877 Higashi Ikebukuro,,Toshima-ku,Tokyo,11,81-3-4893-4211,81-3-4893-4266,12
+248,Jouhou Kakumei Net,891-21-697 Kitaroppongi,,Minato-ku,Tokyo,11,81-3-7777-6388,81-3-7777-6389,6
+249,Kansai Megane,422-6-109 Oyodo,Oyodo-ku,Osaka City,Osaka,11,81-6-507-7771,81-6-507-7772,10
+250,Kurashiro Golf Ten,443-21 Kaminagaramachi,Nakano-ku,Hiroshima City,Hiroshima,11,81-82-989-5477,81-82-989-5478,3
+251,Mihara Sport,7-9-100 Asakusa,,Taito-ku,Tokyo,11,81-3-8636-3388,81-3-8636-3389,11
+252,Mitumaru Shoji Sport Youhinten,6-2-6 Toranomon,,Suginami-ku,Tokyo,11,81-3-1238-5523,81-3-1238-5524,12
+253,Nankyu Outdoor Youhin Senmonten,563-549-213 Hyakubancho,Izumi-ku,Sendai City,Miyagi,11,81-22-777-9117,81-22-777-9118,1
+254,Nitto Sport Ten,500 Minami 385 jo Nishi 23 chome,Toyohira-ku,Sapporo City,Hokkaido,11,81-11-132-7364,81-11-132-7365,12
+255,Ozu Golf Shop,781-14-29 Jingu Mae,,Shibuya-ku,Tokyo,11,81-3-7144-1888,81-3-7144-1885,3
+256,Sasaki Sport Ten,342-1-17 Kansaibashi,Ikuno-ku,Osaka City,Osaka,11,81-6-587-0009,81-6-587-0010,12
+257,Shinozaki Outdoor Shop,453-310 Kanda Ogawamachi,,Chiyoda-ku,Tokyo,11,81-3-8747-2913,81-3-8747-8174,1
+258,Shoumaru Hyakkaten,259-741-638 Ueno,,Taito-ku,Tokyo,11,81-3-5971-3608,81-3-5971-3609,4
+259,Todoroki Outdoor Shop,784-55-98 Naniwa,Naniwa-ku,Osaka City,Osaka,11,81-6-171-1984,81-6-171-1985,2
+260,Tokyo Megane,42-102-988 Kyobashi,,Chuo-ku,Tokyo,11,81-3-8241-7606,81-3-8241-9999,10
+261,Uragome Outdoor Youhinten,188-785 Abeno,Abeno-ku,Osaka City,Osaka,11,81-6-183-1297,81-6-183-1298,1
+262,Yamazaki Sport Youhinten,10-345-5 Ueno,,Taito-ku,Tokyo,11,81-3-3388-8636,81-3-3388-6363,12
+263,Nomura Outdoor Yohinten,16-459-378 Yamashiro,Johoku-ku,Hiroshima City,Hiroshima,11,81-82-145-7512,81-82-145-7511,1
+264,Toutate Hyakkaten,659-777-3 Fukutome,Fukutome-ku,Osaka City,Osaka,11,81-6-943-8791,81-6-943-8792,5
+265,Benriya Net,"93-89-87, Shitenno",Shitenno-ku,Fukuoka City,Fukuoka,11,81-92-658-5744,81-92-658-5745,7
+266,Midoribashi Megane,585-666-874 Nanba,Nanba-ku,Osaka City,Osaka,11,81-6-288-6444,81-6-288-6445,10
+267,Mentai Sport Shop,552-478 Nanzan,Minami-ku,Kontake City,Hiroshima,11,81-82-522-9944,81-82-522-9945,12
+401,Beach Beds Pty Ltd.,2415 Queen's Ave,,Melbourne,VIC,16,+(61) 03 9556 4876,+(61) 03 9532 4248,4
+402,Kanga Kampers,120 Southern Ocean Dr,Unit 16,Brisbane,VIC,16,+(61) 07 7238 1065,+(61) 07 7237 1063,2
+403,Gone Bush Supplies,1520 Scarborough Way,Level 5,Geelong,WA,16,+(61) 03 8541 3967,+(61) 03 8539 3921,9
+404,Top End Equipment,679 Pacific Hwy,Unit 3,St. Kilda,QLD,16,+(61) 03 9111 2911,+(61) 03 9121 2414,7
+405,4 Golf only,250 St. Georges Terrace,10th Floor,Melbourne,WA,16,+(61) 03 9241 1033,+(61) 03 9244 3287,3
+406,Black Stump Camping Supplies,140 North Coast Dr.,Level 19,Cairns,QLD,16,+(61) 03 7529 1431,+(61) 03 7588 2578,1
+407,OutBack Pty,121 Elizabeth Ave.,"Suite 2, Level 9",Brisbane,WA,16,+(61) 07 7210 8653,+(61) 07 7267 1052,2
+408,Harbour Pty Ltd.,4400 Kildairne Rd,3rd Floor,Perth,QLD,16,+(61) 09 9321 7890,+(61) 09 9234 4432,8
+409,Jackos Enviro Shop,910 Winton Ave,# 3,St. Leonards,TAS,16,+(61) 02 9437 5566,+(61) 02 9347 6621,8
+410,Southern Cross Pty.,496 Walter Way,# 15,Perth,TAS,16,+(61) 03 9011 4939,+(61) 03 9912 5915,10
+411,Can't Beat The Bush Supplies,98 River Rd.,,Sydney,QLD,16,+(61) 02 9542 9437,+(61) 02 8192 9437,6
+412,Blue Mountains Golfing Company,956 Steel St.,,Sydney,NSW,16,+(61) 02 9437 9824,+(61) 02 9437 1592,3
+413,Watson's Golf Supplies,6520 Alexander Street,5th Floor,St. Kilda,VIC,16,+(61) 03 9111 3211,+(61) 03 9121 2989,3
+414,Outdoor-Fachgeschäft Müller,Hofstraße 77,,Wien,,5,+(43) 11 67 44 00,+(43) 11 67 44 10,1
+415,Ausrüstungshaus Globetrotter,Hüttenstraße 87,,Klosterneuburg,,5,+(43) 12 72 92 47,+(43) 12 72 92 56,5
+416,Sporthaus Moser,Hauptstraße 96,,Wien,,5,+(43) 11 67 21 21,+(43) 11 67 22 22,5
+417,Kaufhaus Freizeit,Webereistraße 6,,Ternitz,,5,+(43) 26 30 45 50,+(43) 26 30 45 59,4
+418,Olympia Ausrüstung,Löffelgasse 34,,Klosterneuburg,,5,+(43) 13 61 88 77,+(43) 13 61 88 80,8
+419,Sportartikel-Fundgrube,Hauptstraße 8,,Linz,,5,+(43) 73 23 87 70,+(43) 73 23 87 77,12
+420,Der Golfshop,Mühlstraße 26,,Ischgl,,5,+(43) 54 41 01 02,+(43) 54 41 01 03,3
+421,Öko-Versand,Bergweg 11,,Graz,,5,+(43) 31 62 11 11,+(43) 31 62 11 12,7
+422,Freizeit-Lager,Plüddemanngasse 103,,Graz,,5,+(43) 31 64 72 50,+(43) 31 64 72 55,8
+423,Sportladen 1-2-3,Kaiserhofstraße 65,,Klagenfurt,,5,+(43) 46 32 28 77,+(43) 46 32 28 78,12
+424,Camping 2000,Blumenstraße 77,,Arnoldstein,,5,+(43) 42 55 60 80,+(43) 42 55 60 90,2
+425,Golf's'us,Leuvensesteenweg 325,,Zaventem,,17,+32 2 722.18.11,+32 2 722.18.10,3
+426,De Camping Specialist,Kunstlaan 46,,Brussel,,17,+32 2 504.59.11,+32 2 504.59.12,2
+427,Het Sporthuis,Transcontinentaalweg 12,,Antwerpen,,17,+32 3 541.47.10,+32 2 541.47.11,11
+428,Allo Allo,Avenue des 9 Provinces 3,B 109,Bruxelles,,17,+32 2 743.86.93,+32 2 743.87.11,7
+429,Caravanserai,Boul. De La Sauvenière 12,,Liège,,17,+32 41 20.09.22,+32 41 20.09.23,2
+430,Le Bazar,Drève Richelle 161,Waterloo Office Park,Waterloo,,17,+32 2 352.24.11,+32 2 352.24.83,5
+431,Swing Back,Quai Des Charbonnages 76,,Bruxelles,,17,+32 2 410.20.42,+32 2 410.20.48,3
+432,Pleine Forme,Rue De Genève 4,,Bruxelles,,17,+32 2 729.81.11,+32 2 729.81.81,12
+433,Stock Express,Rue du Bosquet 2,,Louvain-La-Neuve,,17,+32 10 47.63.11,+32 10 47.65.75,8
+434,Lojas do Esportista,"Av. Raja Gabalglia, 24",Conj. 12,Belo Horizonte,MG,21,+55 (31) 767-9980,+55 (31) 767-9902,12
+435,Palácio do Camping,"Rua Dr. João Colin, 1299",Conj. 167,Florianópolis,SC,21,+55 (48) 998-1238,+55 (48) 998-2323,2
+436,Paulista Esportes,"Avenida Paulista, 87",10 Andar,São Paulo,SP,21,+55 (11) 339-4230,+55 (11) 339-4599,3
+437,Esportes Grumari,"Alameda Santos, 9876",6o. Andar,São Paulo,SP,21,+55 (11) 288-5032,+55 (11) 288-2345,5
+438,Casa do Alpinista,"Rua Machado de Assis, 1987",2o. Andar,Porto Alegre,RS,21,+55 (51) 333-4587,+55 (51) 333-7777,11
+439,Mega Shop do Esporte,"Av. Presidente Wilson, 9999",10 Andar,Rio de Janeiro,RJ,21,+55 (21) 332-5509,+55 (21) 332-9999,8
+440,Esportópolis,"Rua Estados Unidos, 998",Térreo,São Paulo,SP,21,+55 (11) 878-2275,+55 (11) 878-2387,8
+441,Rei do Camping,"Av. Rio Branco, 15",Sala 10,Rio de Janeiro,RJ,21,+55 (21) 223-5680,+55 (21) 223-3300,2
+442,Morro Sports,"Rua Texeira de Freitas, 1248",6 Andar,Rio de Janeiro,RJ,21,+55 (21) 224-7999,+55 (21) 224-0986,12
+454,"Hangzhou Superman Sports Goods Co., LTD.",59 Yang Fang Dian West,Hai Dian District,Beijing,,14,86-10-6252-8387,86-10-6252-8387,3
+455,"Lan King Sports Co., LTD.",No.339 Huan Shi Dong Road,,Guangzhou,GuangDong,14,86-20-8331-3501,86-20-8331-3501,1
+456,"China Multi-channel Sports Co., LTD.",No.318 Huan Cheng Bei Road,,Hangzhou,Zhejiang,14,86-571-525-2443,86-571-525-2443,7
+457,Great Dragon Group,No.88 Zhong Shan Road,,Harbin,Helong,14,86-451-277-6197,86-451-277-6196,10
+458,W&S Gloria Sport Center,No.41-1 Qian Fu Shan Dong Road,,Jinan,Shangdong,14,86-531-296-3478,,6
+459,"Shaoxing NARI Co., LTD.",58 Xinhua Street,,Nuhhot,Inner Mongolia,14,86-471-686-3860,86-471-686-3860,3
+460,"Inner Mongolia Xin Zhong Co., LTD",No. 245 Chang Zhong Road,,Shanghai,,14,86-21-6536-4442,,5
+461,"Rainbow Service Co., LTD.","223 Xikang Riad, Jing An District",,Shanghai,,14,86-21-6247-4068,86-21-6247-4068,8
+462,ORDER Group,No.99 ZhongShan Road,,Shanghai,,14,86-21-7756-7973,86-21-7756-7973,2
+463,COMLINRK International Enterprises LTD.,No.300 Tian Lin Road,,Shaoxing,Zhejiang,14,86-575-513-6176,86-575-513-6176,2
+464,"Kingdee Co., LTD.",No1. Wu Di Cheng Street,,Tongluowan,Hong Kong,14,852-2506-6074,852-2506-6074,8
+465,Preben's Tøy,Århusgade 55,,Kolding,,18,+45 76 57 66 10,+45 76 57 89 41,2
+466,Classens,St. Kongens Vej,,København,,18,+45 70 23 45 00,+45 70 23 45 01,4
+467,Golf Butikken,Åbyhøjvej 15,,Åbyhøj,,18,+45 87 44 56 34,+45 87 44 56 35,3
+468,København Brillecenter,Industriparken 44,,Herning,,18,+45 87 89 65 00,+45 87 89 65 10,10
+469,Aarhus Sport,Vejlevej 100,,Ballerup,,18,+45 44 51 67 14,+45 44 51 97 46,12
+470,Vi Lejer Ud A/S,Lautruppark 76,,Aarhus,,18,+45 88 56 45 55,+45 88 56 45 56,9
+471,Campingvarehuset,Silkeborgsvej 214,,Randers,,18,+45 91 50 30 00,+45 91 50 30 01,2
+472,Media Center A/S,Nytorvet 1,,Odense,,18,+45 63 51 33 00,+45 63 51 33 10,6
+473,Storkøb,Randersvej 34,,Silkeborg,,18,+45 77 54 67 00,+45 77 54 64 14,8
+474,Hartvigsens,Dronningens Allé 23,,Give,,18,+45 56 45 34 21,+45 56 45 34 21,5
+475,Martin's Golf,Transformervej 14,,Aalborg,,18,+45 95 78 33 64,+45 95 64 78 08,3
+476,København Storecenter,Vibevej 23,,Aabenraa,,18,+45 69 90 34 90,+45 69 90 34 10,8
+477,Tavaratalo Mattas Oy,Sarankulmankatu 20,,Kemi,,22,+358(0)16 - 530 5618,+358(0)16 - 530 5500,5
+478,Sihvolan Postmyynti,Indolantie 16,,Kuopio,,22,+358(0)17 - 433 099,+358(0)17 - 433 100,6
+479,Silmäasema Karell Oy,Lokomonkatu 3,,Pori,,22,+358(0)2 - 607 779,+358(0)2 - 607 780,10
+480,Golfmaailma HL,Kruunuvuorenkatu 4,,Lieksa,,22,+358(0)13 - 618 411,+358(0)13 - 618 530,3
+481,Arjan Aitta,Yrittäjänkatu 21,,Tampere,,22,+358(0)3 - 617 142,+358(0)3 - 617 143,2
+482,Töölön Urheilu ja Pyörä,Vetokuja 4,,Kajaani,,22,+358(0)8 - 8165 7955,+358(0)8 - 8165 8000,12
+483,Urheilu Sihvola,Meritullinkatu 13,,Parainen,,22,+358(0)2 - 228 881,+358(0)2 - 228 890,11
+484,Rantalan Tukku,Kristianinkatu 2,,Salo,,22,+358(0)2 - 15 0497,+358(0)2 - 15 0500,8
+485,NonSoloNeve,Corso XXII Marzo 69,,Bologna,,6,+(39) 051 28 70 518,+(39) 051 28 92 422,11
+486,Paradiso della Tenda,Via Industriale 76,,Torino,,6,+(39) 011 89 34 113,+(39) 011 89 32 239,2
+487,Gli Sportivi,Via Legnano 150,,Bergamo,,6,+(39) 035 65 35 960,+(39) 035 65 35 961,9
+488,Mari&Monti,Via Antica 23,,Firenze,,6,+(39) 055 88 23 456,+(39) 055 88 23 455,10
+489,Tre Valli,Via Archimede 7,,Genova,,6,+(39) 010 85 99 635,+(39) 010 54 66 325,8
+490,AcquaVerde,Corso Sempione 121,,Milano,,6,+(39) 024 89 50 50,+(39) 024 89 50 70,1
+491,Rossi Accessori,Via Settala 28,,Napoli,,6,+(39) 081 68 38 998,+(39) 081 68 43 806,6
+492,Le Vele,Via Torino 20,,Roma,,6,+(39) 068 02 66 66,+(39) 068 02 67 71,4
+493,Giorgi,Via Battisti 34,,Roma,,6,+(39) 066 69 65 86,+(39) 066 35 57 73,3
+494,Centro dello Sportivo,Via Gonzaga 21,,Torino,,6,+(39) 011 89 31 139,+(39) 011 89 32 239,12
+495,La Rondine,Via Teodosio 15,,Venezia,,6,+(39) 041 66 66 802,+(39) 041 66 61 061,5
+496,Compagnia dei Viaggiatori,Via Turati 45,,Torino,,6,+(39) 011 45 69 789,+(39) 011 48 96 233,2
+497,L' Esploratore,Via Sant Ambrogio 13,,Milano,,6,+(39) 026 06 22 91,+(39) 026 06 11 32,2
+498,Hanaro Department,"514-3, Daechi-Dong",Kangnam-Ku,Seoul,,13,82-2-345-8384,82-2-345-8385,4
+499,Taeho Sports,"56-3, Namchun-Dong",Suyoung-Ku,Pusan,,13,82-51-32-4566,82-51-32-4567,12
+500,Asan Department,"123-3,Shingil-Dong",Youngdeungpo-Ku,Seoul,,13,82-2-713-9569,82-2-713-9570,5
+501,Daeung Rental,"12-23, Shinchun-Dong",Songpa-Ku,Seoul,,13,82-2-578-1236,82-2-578-1237,9
+502,Hanshin Department,"234-6, Namsan-Dong",Chung-Ku,Taegu,,13,82-2-523-4562,82-2-523-4563,5
+503,DongHan company,"16-7, Songnai-Dong",Sosa-Ku,Pucheon,Kyungki-Do,13,82-32-789-4526,82-32-789-4527,7
+504,Tongil Sports,"23-9, Hyosung-Dong",Kyeyang-Ku,Incheon,,13,82-32-23-4567,82-32-23-4568,12
+505,Hankook Sports,"879-99, Bumil-Dong",Dong-Ku,Pusan,,13,82-51-745-0697,82-51-745-0698,11
+506,Kong's Sports,"91-1, Noksan-Dong",Kangs-Ku,Pusan,,13,82-51-336-5421,82-51-336-5422,12
+507,Shingu Golf,"30-7, Kuwan-Dong",Chung-Ku,Taejeon,,13,82-42-623-7812,82-42-623-7817,3
+508,Samdo Club,"45-1, Sinpyung-Dong",Saha-Ku,Pusan,,13,82-51-36-1245,82-51-36-1246,8
+526,Sportworld,Kalfjeslaan 47,,Amstelveen,,7,+31 (0)20 487 61 48,+31 (0)20 450 66 52,4
+527,Topforma,Noorderspoorsingel 28,,Groningen,,7,+31 (0)182 30 50 83,+31 (0)182 34 55 21,6
+528,SportTotaal,Hogehilweg 13,,Amsterdam,,7,+31 (0)20 692 93 94,+31 (0)20 692 93 06,8
+529,Holland Zonzoekers,Westhavenweg 8,,Amsterdam,,7,+31 (0)20 511 57 10,+31 (0)20 511 57 11,3
+530,Beter Buitenleven,Havenbuurt 12,,Marken,,7,+31(0)299 343 61 45,+31(0)299 34397 41,2
+531,Extra Sport,Stadhouderslaan 18,,Rotterdam,,7,+31 (0)10 727 65 01,+31 (0)10 727 65 02,11
+532,Sport Gezond,Bilderdijkstraat 33,,Steenwijk,,7,+31 (0)52 103 72 45,+31 (0)52 103 72 87,5
+533,Van Out Bv.,Oosterstraat 5,,Schagen,,7,+31 (0)22 406 54 30,+31 (0)22 409 93 11,10
+534,Anywhere Everywhere,Van IJsendijkstraat 190,,Purmerend,,7,+31 (0)29 902 03 30,+31 (0)29 906 02 69,10
+535,Het Fitte Gevoel,Kneppelhoutweg 8,,Oosterbeek,,7,+31(0)26 851 83 12,+31(0)26 851 55 69,3
+536,Cornelius' buitensport,"Abdijcomplex, toren 1",,Middelburg,,7,+31 (0)118 04 24 24,+31 (0)118 04 46 60,2
+537,Klimmeester,Oude Maasstraat 90,,Maastricht,,7,+31(0)43 773 14 77,+31(0)43 773 22 81,2
+538,Fred's Sportpaleis,De Grutto 25,,Dedemsvaart,,7,+31 (0)52 301 23 00,+31 (0)52 301 26 50,8
+539,Eurobal,Gebouw De Coener,,Amsterdam,,7,+31 (0)20 618 19 18,+31 (0)20 683 99 46,12
+540,Kampeer Top Shop,De Kwartel 6,,Dronten,,7,+31 (0)32 106 59 92,+31 (0)32 106 02 33,1
+541,Klimgek Bv.,p/a De Grote Club,,Amsterdam,,7,+31 (0)20 564 12 02,+31 (0)20 564 19 99,1
+542,Aarde Rond Bv.,Van Goghstraat 10,,St-Maartensvlotbrug,,7,+31(0)224 561 97 46,+31(0)224 561 86 35,9
+543,Naranco de Bulnes,"Atlántico, 56",,Barcelona,Barcelona,19,+35 93 241 7846,+35 93 356 3444,2
+544,Picos,"Paseo Marítimo, 78",,Barcelona,Barcelona,19,+35 93 721 3289,+35 93 721 3288,5
+545,Valle Luz,"Ondarreta, 84",,Bilbao,Vizcaya,19,+35 94 658 1244,+35 94 345 6070,5
+546,Candanchú,"Marqués de San Esteban, 4",,Gijón,Asturias,19,+35 98 516 7399,+35 98 516 7398,2
+547,Golf España,"Huesca, 88",Bajo,Logroño,La Rioja,19,+35 94 159 5488,+35 94 166 6633,3
+548,Ocio y Aventura,"Carrera de Oriente, 58-5",,Madrid,Madrid,19,+35 91 222 5578,+35 91 222 5645,4
+549,Alpino,Edifico Mantilla,"Herrerías, 56-7",Madrid,Madrid,19,+35 91 465 4128,+35 91 714 7361,2
+550,Supremas Montañas,"Avenida Reunión, 230",,Zaragoza,Zaragoza,19,+35 97 633 6802,+35 97 645 9031,2
+551,Crèmes solaires,"99, rue des Laitiers",,Lausanne,,8,+(41) 21 36 50 11,+(41) 21 41 49 11,2
+552,Contacts maisons,"78, rue Guillaume Tel",,Genève,,8,+(41) 22 36 25 14,+(41) 22 45 78 02,7
+553,Construction Montagne,"45, route de Fribourg",,Genève,,8,+(41) 22 73 14 77,+(41) 22 73 14 65,8
+554,RosaCamping,Viale dei Quattro Venti 57,,Locarno,,8,+(41) 93 14 78 32,+(41) 93 14 59 73,2
+555,Optikhaus,Riedstraße 21,,Dietikon,,8,+(41) 16 55 38 38,+(41) 16 55 38 37,10
+556,Bergsteiger-Glück,Beundenstraße 26,,Wangen,,8,+(41) 65 82 31 42,+(41) 65 82 31 40,4
+557,Windsurfing Zürichsee,Kirchstraße 66,,Zürich,,8,+(41) 12 52 31 54,+(41) 12 52 31 55,12
+558,La Slitta,Via Lago 51,,Lugano,,8,+(41) 91 67 43 94,+(41) 91 69 61 20,5
+559,Cordages Divers,"7, place de l'Hôtel de Ville",,Lausanne,,8,+(41) 21 15 40 72,+(41) 21 65 70 30,2
+560,Topsport,Lerzenstraße 24,,Burgdorf,,8,+(41) 42 71 11 00,+(41) 42 71 11 10,12
+561,Arnold's Clubs,"89, route d'Evian",,Genève,,8,+(41) 22 36 22 40,+(41) 22 45 10 58,3
+562,Escalades voyages,"97, route des Organisations",,Genève,,8,+(41) 22 85 21 47,+(41) 22 47 15 03,6
+563,Divers Montagne,"8, rue des Écoles",,Fribourg,,8,+(41) 26 12 04 63,+(41) 26 47 15 30,5
+564,Camping douceur,"7, route de l'Italie",,Fribourg,,8,+(41) 26 24 00 58,+(41) 26 50 10 23,2
+565,Haus der Tramper,Strehlgasse 6,,Engelburg,,8,+(41) 71 27 67 60,+(41) 71 27 67 65,5
+566,Supertramp,Flughafenstraße 1,,Basel,,8,+(41) 61 43 53 53,+(41) 61 43 53 53,8
+567,Alpin Sport,Florhofstraße 7,,Aargau,,8,+(41) 64 21 11 02,+(41) 64 21 11 05,1
+568,Gregoretti Sport,Via Ponti 7,,Luino,,8,+(41) 03 32 68 31,+(41) 03 32 68 31,6
+569,Tentes et cordages,"56, avenue du bon sens",,Fribourg,,8,+(41) 26 36 15 34,+(41) 26 22 80 98,1
+570,Golf Haus,Bachtelstraße 43,,Aarau,,8,+(41) 64 27 97 97,+(41) 64 27 97 98,3
+571,Camp 34,Bahnhofstraße 8,,Gümligen,,8,+(41) 31 94 15 50,+(41) 31 94 15 51,2
+572,Mondo Neve,Via Brezza 12,,Luino,,8,+(41) 03 89 47 15,+(41) 03 89 10 44,9
+573,Hai Wan Shin Sport Equipment Co.,"100-1, Gin-Ping Road",,Choung Ho,Taipei,12,886-2-2940-4433,886-2-2994-1219,3
+574,World-Wild Sport Equipment Co.,"392, Chian Shin Street",,Shin Chuang,Taipei,12,886-2-2277-1450,886-2-2277-1253,3
+575,"Chen Yu Enterprise Co.,","75, Choung Yi Road",,Tu Cherng,Taipei,12,886-2-2269-3143,886-2-2269-3047,5
+576,Gin May Enterprises Co.,"24, San Long Street",,Su Lin,Taipei,12,886-2-2988-5060,886-2-2988-5070,3
+577,Yuan Li Enterprises Co.,"93, Yuan-Tuan Road",,Choung Ho,Taipei,12,886-2-2249-6896,886-2-2247-7902,8
+578,Hong Wai Enterprises Co.,"188, Choun San Road",,Keelung,,12,886-2-2432-5119,886-2-2433-0517,9
+579,Chuan Yang Sport Equipment Co.,"635, Hwa-Chen Road",,Shin Chuang,Taipei,12,886-2-2594-3131,886-2-2596-5686,3
+580,Fu Chin Sport Equipment Co.,"19, Wu Chiuan 2 Road",,Wu Gu Industrial Zone,Taipei,12,886-2-2298-8581,886-2-2298-8591,7
+581,Moun Tin Huan Health & Sport Equipment Co.,"11, Kuo 6 Road",,Lin Ko,Taipei,12,886-2-2603-3101,886-2-2603-3102,7
+582,Extensive Enterprises Co.,"266, Wen-Hwao Road",Section 1,Ban Chiao,Taipei,12,886-2-2254-0951,886-2-2254-0692,3
+583,James Enterprise Co.,"514, Choung-Cheng Road",,Chung Lie,,12,886-3-428-2167,886-3-428-2168,4
+584,"Chen Ze May Enterprises Co., Ltd.","100, Gin-Ping Road",,Choung Ho,Taipei,12,886-2-2957-1901,886-2-2957-1902,8
+585,Jensen Mountaineering,139 Page Street,,London,,9,+(44) 171 7327474,+(44) 171 3871873,2
+586,Leisure Land,Kelvin House,Talisman Road,Birmingham,West Midlands,9,+(44) 121 4764682,+(44) 121 3607074,5
+587,Hurst Ironmongers,The Beeches,14 Church Street,Bristol,Avon,9,+(44) 117 9350365,+(44) 117 9755453,3
+588,Percy's Irons,14 Bath Road,,London,,9,+(44) 171 3513909,+(44) 171 9874611,3
+589,Outdoor Experience,Seaton House,3 Aberford Road,Reading,Berkshire,9,+(44) 118 9666225,+(44) 118 9426551,1
+590,Baxters Pro Shop,10 Boundary Way,,London,,9,+(44) 171 2533960,+(44) 171 3527907,3
+591,Breathe Free ltd,11 High Street,,London,,9,+(44) 181 5422873,+(44) 181 5528210,6
+592,Brown's Opticians,11 Staine Road,,Reading,Berkshire,9,+(44) 118 9411833,+(44) 118 9482574,10
+593,Campland Limited,12 York Place,,Reading,Berkshire,9,+(44) 118 9574365,+(44) 118 9844255,2
+594,Country Esquire,16 Crown Hill,,Milton Keynes,Buckinghamshire,9,+(44) 1908 313441,+(44) 1908 644542,1
+595,Edge Mountainwear,20 Booth Lane,,Oxford,Oxfordshire,9,+(44) 1865 768377,+(44) 1865 717492,2
+596,FreshCo,25 Long Road,,Oxford,Oxfordshire,9,+(44) 1865 773657,+(44) 1865 249716,5
+597,Berkshire Traders,26 Willoughby Road,,Reading,Berkshire,9,+(44) 118 9341064,+(44) 118 9451650,5
+598,Outdoor World,28 Pottergate,,Milton Keynes,Buckinghamshire,9,+(44) 1908 695906,+(44) 1908 673640,2
+599,Seamate Chandlers,44 Great Victoria Street,,Birmingham,West Midlands,9,+(44) 121 4770471,+(44) 121 3567959,4
+600,Smith's Chemists,33 Elm Street,,Telford,Shropshire,9,,,8
+601,Sportlife,421 North Road,,Luton,Bedfordshire,9,+(44) 1582 881202,+(44) 1582 881200,12
+602,Starsight Limited,49 Victoria Road,,Oxford,Oxfordshire,9,+(44) 1865 766750,+(44) 1844 338379,7
+603,The Cutting Edge,9 Heath Lane,,Bristol,Avon,9,+(44) 117 9773881,+(44) 117 9676716,6
+604,Tee Time Limited,95 Great Clarendon Street,,Oxford,Oxfordshire,9,+(44) 1865 748194,+(44) 1865 243716,3
+605,The Golf Boutique,Booth House,Ingrave Road,London,,9,+(44) 171 4746516,+(44) 171 6090443,3
+606,Total Sports,Caradog House,St Andrews Place,Brighton,Sussex,9,+(44) 1273 682390,+(44) 1273 325175,12
+608,Visual Experience,Craven House,16 St Andrew Square,London,,9,+(44) 181 6700394,+(44) 181 5210370,2
+609,The Village Chemist,Gade House,Waterside Drive,Bristol,Avon,9,+(44) 117 9690362,+(44) 117 9685009,8
+610,Franklins',Isis House,London Road,Reading,Berkshire,9,+(44) 118 9473635,+(44) 118 9482504,5
+611,Focus Eyewear,Melton House,Chainbridge Road,Nottingham,Nottinghamshire,9,+(44) 115 9278250,+(44) 115 9634481,10
+612,RR:s Stormarknad,Hammarvägen 11,,Helsingborg,,10,+(46) 042 547 080,+(46) 042 540 685,5
+613,Jakt och Fritid AB,Ängsgatan 45,,Stockholm,,10,+(46) 085 231 241,+(46) 085 231 905,5
+614,Klättringsexperten AB,Daggkåpevägen 68,,Lidingö,,10,+(46) 081 966 302,+(46) 081 996 306,7
+615,Cykelcentrum,Fredsgatan 76,,Malmö,,10,+(46) 040 936 555,+(46) 040 936 550,12
+616,Sport Jonas,Apoteksgatan 2,,Bollnäs,,10,+(46) 278 478 322,+(42) 278 478 323,11
+617,Fritidscenter,Ekebyvägen 79,,Norrtälje,,10,+(46) 176 529 205,+(46) 176 515 078,9
+618,Skog & Mark AB,Bultgatan 56,,Nynäshamn,,10,+(46) 084 474 142,+(46) 084 472 456,10
+619,Golf Butiken,Fridhemsgatan 44,,Örebro,,10,+(46) 018 558 975,+(46) 018 557 863,3
+620,Hole in One AB,Göthammars väg 2,,Stenungsund,,10,+(46) 303 879 234,+(46) 303 879 222,3
+621,REX Klätterutrustning AB,Finlandsgatan 20,,Stockholm,,10,+(46) 086 926 984,+(46) 086 928 867,8
+622,Allt för camping AB,Dimgatan 4,,Umeå,,10,+(46) 090 765 020,+(46) 090 965 022,1
+623,Aqua Sport,Gärdesgatan 34,,Köping,,10,+(46) 221 450 144,+(46) 221 450 140,12
+624,Sport Experten AB,Skolvägen 18,,Åkersberga,,10,+(46) 085 406 292,+(46) 085 768 978,12
+625,Campingspecialisten,Eliassons väg 3,,Åtvidaberg,,10,+(46) 120 856 779,+(46) 120 856 700,2
+626,Toppform AB,Jaktstigen 56,,Nässjö,,10,+(46) 380 789 595,+(46) 380 789 590,8
+627,Stinas Campingutrustning,Furustigen 22,,Piteå,,10,+(46) 911 799 689,+(46) 911 799 699,2

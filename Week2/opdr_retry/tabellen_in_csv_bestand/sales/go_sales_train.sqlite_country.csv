@@ -1,0 +1,22 @@
+COUNTRY_CODE,COUNTRY_CODE,LANGUAGE_CODE,CURRENCY_NAME
+1,France,EN,francs
+2,Germany,EN,marks
+3,United States,EN,dollars
+4,Canada,EN,dollars
+5,Austria,EN,schillings
+6,Italy,EN,lira
+7,Netherlands,EN,guilders
+8,Switzerland,EN,francs
+9,United Kingdom,EN,pounds
+10,Sweden,EN,krona
+11,Japan,EN,yen
+12,Taiwan,EN,new dollar
+13,Korea,EN,won
+14,China,EN,renminbi
+16,Australia,EN,dollars
+17,Belgium,EN,francs
+18,Denmark,EN,kroner
+19,Spain,EN,pesetas
+20,Mexico,EN,pesos
+21,Brazil,EN,reals
+22,Finland,EN,markka

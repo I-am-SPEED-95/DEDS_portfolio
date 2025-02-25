@@ -1,0 +1,29 @@
+SALES_BRANCH_CODE,ADDRESS1,ADDRESS2,CITY,REGION,COUNTRY_CODE
+6,"75, rue du Faubourg St-Honoré",,Paris,,1
+7,"Piazza Duomo, 1",,Milano,,6
+9,Singelgravenplein 4,4e verdieping,Amsterdam,Noord-Holland,7
+13,Schwabentor 35,,Hamburg,,2
+14,Leopoldstraße 36,,München,,2
+15,Isafjordsgatan 30 C,,Kista,,10
+17,"7800, 756 - 6th Avenue. S.W.",,Calgary,Alberta,4
+18,789 Yonge Street,,Toronto,Ontario,4
+19,1288 Dorchester Avenue,,Boston,Massachusetts,3
+20,299 Yale Avenue,,Seattle,Washington,3
+21,1288 South Barrington Ave.,,Los Angeles,California,3
+22,10032 NW 186th,,Miami,Florida,3
+23,"6c, rue de l'Église",,Lyon,,1
+24,Prol. Paseo de la Reforma No. 51,Lomas de Santa Fe,Distrito Federal,México,20
+25,202-2-3 Hyakunincho,Shinjuku-ku,Tokyo,Tokyo,11
+26,543-225 Asahi,Asahi-ku,Osaka City,Osaka,11
+28,2315 Queen's Ave,Level 2,Melbourne,VIC,16
+29,"Plaza de la Constitución, s/n",,Bilbao,Vizcaya,19
+30,"Avenida Paulista, 333",CJ 231 2o. Andar,São Paulo,SP,21
+31,Kauppakatu 33,,Kuopio,,22
+32,"234-12, Kongdeok-Dong",Mapo-Ku,Seoul,,13
+33,"154, Choung-Cheng South Road",,San Chung,Taipei,12
+34,No. 1277 Beijing Xi Road,,Shanghai,,14
+35,Victoria House,25 Ebury Street,London,,9
+36,3 Albany Court,Market Street,Birmingham,West Midlands,9
+37,Birchstraße 13,,Zürich,,8
+38,Interleuvenlaan 2,,Heverlee,,17
+39,Jedleser Straße 7,,Wien,,5
